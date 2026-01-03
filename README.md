@@ -1,1 +1,1 @@
-https://drive.google.com/drive/my-drive
+https://drive.google.com/drive/home
